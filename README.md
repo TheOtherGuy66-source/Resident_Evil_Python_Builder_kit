@@ -36,7 +36,7 @@ To build, you need the Team X mods, then overwrite those with the Seamless HD mo
 
 ### AMD Fix for RE1
 
-For the AMD fix on RE1, you'll need to find:
+For the AMD fix on RE1:
 
 - `D3DImm.dll`
 - `dgVoodoo.conf`
