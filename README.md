@@ -51,3 +51,9 @@ The mod linker drive links aren't working anymore. I haven't reuploaded them due
 It's pretty much extremely easy. You have your game folder and then your mod zip. The game folder must be on your desktop, and the zips can be on your desktop or downloads folder. The script can detect if you're syncing to OneDrive. It will see the folder and zip for auto-detection and then do all of the stuff for you.
 
 Once you have built the mod zip, it will be really helpful for those that have trouble with technical stuff like this.
+
+
+
+
+https://github.com/user-attachments/assets/809c0aad-55f8-4944-99df-3269902432a9
+
