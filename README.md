@@ -1,3 +1,10 @@
+
+![Screenshot 2024-07-21 082740](https://github.com/user-attachments/assets/a073d4b4-d197-4389-9cf2-dc9ef71a5fb1)
+![Screenshot 2024-07-21 082757](https://github.com/user-attachments/assets/23d0717b-8bf2-4a5c-ac4f-11b7899243ab)
+![Screenshot 2024-07-21 082817](https://github.com/user-attachments/assets/4fbe111b-d8f7-45b9-b031-83b4eb06e482)
+
+
+
 ## To Build
 
 1. You need Python installed.
