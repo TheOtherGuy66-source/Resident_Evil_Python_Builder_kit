@@ -169,7 +169,7 @@ class DownloadAndUnpackApp(QtWidgets.QWidget):
 
     async def biohazard_sourcenext(self):
         self.renaming_context = "Bio Hazard 3 (SOURCENEXT)"
-        download_url = "https://drive.google.com/file/d/1DGJ3XwetXQV3Gt7-SebH30aCWdb6sU08/view?usp=drive_link"
+        download_url = "https://github.com/TheOtherGuy66-source/Resident_Evil_Python_Builder_kit/releases/download/amd/Bio3_mod.zip"
         desktop_dir = self.get_desktop_path()
         target_dir = os.path.join(desktop_dir, 'Bio Hazard 3 (SOURCENEXT)', 'data')
 
@@ -333,7 +333,7 @@ class DownloadAndUnpackApp(QtWidgets.QWidget):
                     self.log_message(f"Failed to remove {file_path}: {str(e)}", error=True)
 
     def download_biohazard2(self):
-        webbrowser.open("https://drive.google.com/file/d/1DGJ3XwetXQV3Gt7-SebH30aCWdb6sU08/view?usp=drive_link")
+        webbrowser.open("https://github.com/TheOtherGuy66-source/Resident_Evil_Python_Builder_kit/releases/download/amd/Bio3_mod.zip")
 
     def get_desktop_path(self):
         """Get the path to the Desktop directory, accounting for OneDrive redirection."""
