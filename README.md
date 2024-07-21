@@ -3,7 +3,7 @@
 1. You need Python installed.
 2. You need to create a folder for RE1, RE2, and RE3.
 
-### Game Versions
+### Game Versions/ Folder names.
 
 - **RE1** = BIOHAZARD Mediakite
 - **RE2** = Biohazard-2-apan-source-next
