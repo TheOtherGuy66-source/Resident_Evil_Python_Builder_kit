@@ -177,7 +177,7 @@ class DownloadAndUnpackApp(QtWidgets.QWidget):
 
     async def biohazard_mediakite(self):
         self.renaming_context = "BIOHAZARD Mediakite"
-        download_url = "https://drive.google.com/file/d/1PeY5a358qndRL51B9_ZnbkcHoGmtBmeL/view?usp=drive_link"
+        download_url = "https://github.com/TheOtherGuy66-source/Resident_Evil_Python_Builder_kit/releases/download/amd/Biohazard_mod.zip"
         desktop_dir = self.get_desktop_path()
         target_dir = os.path.join(desktop_dir, 'BIOHAZARD Mediakite', 'horr')
 
@@ -357,10 +357,10 @@ class DownloadAndUnpackApp(QtWidgets.QWidget):
                     self.log_message(f"Failed to remove {file_path}: {str(e)}", error=True)
 
     def download_biohazard(self):
-        webbrowser.open("https://drive.google.com/file/d/1PeY5a358qndRL51B9_ZnbkcHoGmtBmeL/view?usp=drive_link")
+        webbrowser.open("https://github.com/TheOtherGuy66-source/Resident_Evil_Python_Builder_kit/releases/download/amd/Biohazard_mod.zip")
 
     def download_dgvoodoo(self):
-        download_url = "https://drive.google.com/file/d/1BvwiV0SCEF1ELwI80V-IfsykaQv24zQ6/view?usp=drive_link"
+        download_url = "https://github.com/TheOtherGuy66-source/Resident_Evil_Python_Builder_kit/releases/download/amd/dgVoodoo_AMD_fix.zip"
         self.log_message(f"Opening webpage to download dgVoodoo_AMD_fix.zip from {download_url}")
         webbrowser.open(download_url)
         self.log_message("Webpage opened in your default browser.")
