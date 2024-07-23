@@ -3,6 +3,10 @@
 ![Screenshot 2024-07-21 082757](https://github.com/user-attachments/assets/23d0717b-8bf2-4a5c-ac4f-11b7899243ab)
 ![Screenshot 2024-07-21 082817](https://github.com/user-attachments/assets/4fbe111b-d8f7-45b9-b031-83b4eb06e482)
 
+![Screenshot 2024-07-23 103934](https://github.com/user-attachments/assets/3d28f178-2c16-4f9e-a59f-e8f21b6215f0)
+![Screenshot 2024-07-23 103858](https://github.com/user-attachments/assets/d31f211a-d0e3-4c16-97eb-8e6cb7e1253d)
+![Screenshot 2024-07-23 103913](https://github.com/user-attachments/assets/24b2c036-3b5a-485a-aa87-be121d5eb62e)
+![Screenshot 2024-07-23 103923](https://github.com/user-attachments/assets/9ca96bfb-44bc-484f-9c2e-ea25686b9d28)
 
 
 ## To Build
