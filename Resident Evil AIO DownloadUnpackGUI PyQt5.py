@@ -182,16 +182,20 @@ class DownloadAndUnpackApp(QtWidgets.QWidget):
 
     def show_help(self):
         help_text = (
-            "Game Versions/Folder Names:\n\n"
-            "RE1 Folder Name:\nBIOHAZARD Mediakite\n\n"
-            "RE2 Folder Name:\nbiohazard-2-apan-source-next\n\n"
-            "RE3 Folder Name:\nBio Hazard 3 (SOURCENEXT)\n\n"
-            "Folders MUST BE ON THE DESKTOP.\n"
-            ".zips can be stored in C: But they don't get deleted when stored in C:\n"
-            ".zips can be stored in the downloads folder or the desktop.\n\n"
-            "The folders must be named these for the corresponding game titles, and it must be the Japanese versions of the games. "
-            "You just use 7zip and dump the game into the correct named folder from the ISO. You don’t need to do anything else but download the zip mod for the corresponding game. "
-            "The script will do the job for you. And a word of advice: Don’t have all the files in the same place at once. One game at a time…"
+        "Game Versions/Folder Names:\n\n"
+        "My download links do not contain the actual game files; you’ll have to find those yourself!\n\n"
+        "RE1 Folder Name:\nBIOHAZARD Mediakite\n\n"
+        "RE2 Folder Name:\nbiohazard-2-apan-source-next\n\n"
+        "RE3 Folder Name:\nBio Hazard 3 (SOURCENEXT)\n\n"
+        "Folders MUST BE ON THE DESKTOP.\n\n"
+        ".zips can be stored in C: But they don't get deleted when stored in C:\n\n"
+        ".zips should be stored in the downloads folder or the desktop.\n\n"
+        "The folders must be named these for the corresponding game titles, and it must be the Japanese versions of the games.\n\n"
+        "You just use 7zip and dump the game into the correct named folder from the ISO.\n\n"
+        "You don’t need to do anything else but download the zip mod for the corresponding game.\n\n"
+        "The script will do the job for you.\n\n"
+        "And a word of advice: Don’t have all the files in the same place at once. One game at a time…\n\n"
+        "This was a hard task to create, not perfect by any stretch of the imagination though.\n\n"
         )
         help_dialog = QtWidgets.QMessageBox(self)
         help_dialog.setWindowTitle("Help")
