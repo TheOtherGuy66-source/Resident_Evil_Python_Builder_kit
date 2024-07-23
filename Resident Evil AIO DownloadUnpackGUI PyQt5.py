@@ -191,7 +191,7 @@ class DownloadAndUnpackApp(QtWidgets.QWidget):
             ".zips can be stored in the downloads folder or the desktop.\n\n"
             "The folders must be named these for the corresponding game titles, and it must be the Japanese versions of the games. "
             "You just use 7zip and dump the game into the correct named folder from the ISO. You don’t need to do anything else but download the zip mod for the corresponding game. "
-            "The script will do the job for you."
+            "The script will do the job for you. And a word of advice: Don’t have all the files in the same place at once. One game at a time…"
         )
         help_dialog = QtWidgets.QMessageBox(self)
         help_dialog.setWindowTitle("Help")
